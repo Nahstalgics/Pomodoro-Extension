@@ -1,0 +1,10 @@
+{
+  "name": "Pomodoro Extension",
+  "description": "",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "pomodoro.html",
+    "default_icon": "pomo_icon.png"
+  }
+}
